@@ -1,4 +1,4 @@
-package dataStructure;
+package dataStructure.ArrayStackQueue;
 
 public interface Queue<E> {
     boolean isEmpty();

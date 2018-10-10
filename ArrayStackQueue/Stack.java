@@ -1,4 +1,4 @@
-package dataStructure;
+package dataStructure.ArrayStackQueue;
 
 public interface Stack<E> {
     int getSize();

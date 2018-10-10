@@ -1,4 +1,4 @@
-package dataStructure;
+package dataStructure.ArrayStackQueue;
 
 public class LoopQueue<E> implements Queue<E> {
 

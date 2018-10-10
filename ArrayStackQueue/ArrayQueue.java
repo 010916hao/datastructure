@@ -1,6 +1,6 @@
-package dataStructure;
+package dataStructure.ArrayStackQueue;
 
-public class ArrayQueue<E> implements Queue<E>{
+public class ArrayQueue<E> implements Queue<E> {
 
     private Array<E> arr;
 

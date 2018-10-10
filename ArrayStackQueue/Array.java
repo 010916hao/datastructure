@@ -1,4 +1,4 @@
-package dataStructure;
+package dataStructure.ArrayStackQueue;
 public class Array<E> {
 
     private E[] data;
